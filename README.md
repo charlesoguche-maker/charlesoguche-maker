@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Charles Arome</h1>
+<h1 align="center">Hi 👋, I'm Arome Oguche</h1>
 <h3 align="center">I'm an aspiring AI Engineer. I welcome you to my profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlesoguche-maker&label=Profile%20views&color=0e75b6&style=flat" alt="charlesoguche-maker" /> </p>
@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Transfer Learning**
 
-- 📫 How to reach me **oarome1@gmail.com**
+- 📫 How to reach me **charlesoguchea@gmail.com**
 
 - ⚡ Fun fact **I play football and read books**
 
